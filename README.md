@@ -60,4 +60,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mannyci&show_icons=true&theme=dark&count_private=true" alt="mannyci" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannyci" alt="mannyci" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannyci&layout=compact" alt="mannyci" /></p>
