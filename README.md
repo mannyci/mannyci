@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Manas</h1>
-<h3 align="center">A DevOps engineer from India 🇮🇳 currently living in the Netherlands 🌷</h3>
+<h3 align="center">An experienced System, DevOps engineer, Consultant and Architect I combine both my technical and customer engagement skills to bring valute to customers. Roots are from India 🇮🇳 currently enjoying the beautiful weather in the Netherlands 🌷</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mannyci&label=Profile%20views&color=0e75b6&style=flat" alt="mannyci" /> </p> -->
 
 <br>
 
 - 🔭 I’m currently working on **Linux, Ansible, Cloud, DevOps, Kubernetes, OpenShift**
-- 📫 Currently working at RedHat as Senior Cloud & Infrastructure Consultant
+- 📫 Currently working at RedHat as Senior Architect Cloud & Infrastructure in Customer Success organization.
 - ✨ Love to discuss or just randomly have chat over ☕️ or 🍻 in these areas.
 -  ⚡ Few things that I work(ed) on and love to dig deeper
 
