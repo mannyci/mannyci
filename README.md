@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Manas</h1>
-<h3 align="center">An experienced System, DevOps engineer, Consultant and Architect I combine both my technical and customer engagement skills to bring valute to customers. Roots are from India 🇮🇳 currently enjoying the beautiful weather in the Netherlands 🌷</h3>
+<h3 align="center">An experienced System, DevOps engineer, Consultant and Architect. I combine both my technical and customer engagement skills to bring valute to customers. Roots are from India 🇮🇳 currently enjoying the beautiful weather in the Netherlands 🌷</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mannyci&label=Profile%20views&color=0e75b6&style=flat" alt="mannyci" /> </p> -->
 
